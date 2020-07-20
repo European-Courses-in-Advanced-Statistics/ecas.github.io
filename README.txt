@@ -1,5 +1,7 @@
 Website for ECAS -- European Courses in Advanced Statistics
 
+https://european-courses-in-advanced-statistics.github.io/ecas.github.io/
+
 ==
 
 Editorial by HTML5 UP
